@@ -1,0 +1,9 @@
+My prompting strategy focuses on creating clear, detailed, and context-aware instructions that help model generate accurate and relevant responses. Here are the key elements:
+
+1. I aim for clear and precise instructions, minimizing ambiguity. This ensures that the model knows exactly what information or task is needed.
+
+2. I use any known context (like the project details) to provide relevant guidance, making the response more tailored.
+
+3. I often specify the model's role and other parameters to align the model’s tone and output style with the user’s needs.
+
+This approach helps to generate responses that are accurate, relevant, and aligned with the expectations.
